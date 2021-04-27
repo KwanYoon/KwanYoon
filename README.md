@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🎓 My name is Kwan. I am a second year **Computer Science student at the University of Waterloo**.
+
+🔭 I’m currently working on MiniGames, a React.JS application that hosts classic boardgames such as Reversi, Chess, and Battleship.
+
+📫 Email me at k9yoon@uwaterloo.ca for any inquiries!
+
+
 <!--
 **KwanYoon/KwanYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
