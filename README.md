@@ -2,6 +2,8 @@
 
 🎓 My name is Kwan. I am a second year **Computer Science student at the University of Waterloo**.
 
+🌱 I’m interested in **Software Engineering, Full-Stack Development, and Computer Science.**
+
 🔭 I’m currently working on MiniGames, a React.JS application that hosts classic boardgames such as Reversi, Chess, and Battleship.
 
 📫 Email me at k9yoon@uwaterloo.ca for any inquiries!
