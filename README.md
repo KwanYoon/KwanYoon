@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **MiniGames**, a **React.JS application** that hosts classic boardgames such as **Reversi, Chess, and Battleship**.
 
-📫 Email me at k9yoon@uwaterloo.ca for any inquiries!
+📫 Check out my website at **https://kwanyoon.github.io/**, and email me at **k9yoon@uwaterloo.ca** for any inquiries!
 
 
 <!--
