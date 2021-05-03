@@ -4,7 +4,7 @@
 
 🌱 I’m interested in **Software Engineering, Full-Stack Development, and Computer Science.**
 
-🔭 I’m currently working on **MiniGames**, a **React.JS application** that hosts classic boardgames such as **Reversi, Chess, and Battleship**.
+🔭 I’m currently working on **Boardgame Central**, a **React.JS application** that hosts classic boardgames such as **Reversi, Chess, and Battleship**.
 
 📫 Check out my website at **https://kwanyoon.github.io/**, and email me at **k9yoon@uwaterloo.ca** for any inquiries!
 
