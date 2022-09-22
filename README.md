@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 My name is Kwan. I am a second year **Computer Science student at the University of Waterloo**.
+🎓 My name is Kwan. I am a third year **Computer Science student at the University of Waterloo**.
 
 🌱 I’m interested in **Software Engineering, Full-Stack Development, and Computer Science.**
 
