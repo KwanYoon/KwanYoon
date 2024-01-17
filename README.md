@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🎓 My name is Kwan. I am a third year **Computer Science student at the University of Waterloo**.
+🎓 My name is Kwan. I am a fourth year **Computer Science student at the University of Waterloo**.
 
 🌱 I’m interested in **Software Engineering, Full-Stack Development, and Computer Science.**
-
-🔭 I’m currently working on **Boardgame Central**, a **React.JS application** that hosts classic boardgames such as **Reversi, Chess, and Battleship**. You can find some of my best works in the pinned repositories below!
 
 📫 Check out my website at **https://kwanyoon.github.io/portfolio-site/**, and email me at **k9yoon@uwaterloo.ca** for any inquiries!
 
