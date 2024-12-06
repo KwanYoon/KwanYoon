@@ -5,7 +5,6 @@
 🌱 I’m interested in **Software Engineering, Full-Stack Development, and Computer Science.**
 
 📫 Check out my website at **https://kwanyoon.github.io/portfolio-site/**, and email me at **k9yoon@uwaterloo.ca** for any inquiries!
-<img width="1446" alt="Screenshot 2024-12-06 at 11 21 05 AM" src="https://github.com/user-attachments/assets/01d801f6-662d-49c2-a7f6-b9d78454517e">
 
 
 <!--
